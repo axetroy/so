@@ -38,10 +38,6 @@
     imurmurhash "^0.1.4"
     slide "^1.1.5"
 
-"@axetroy/struct@^1.1.2":
-  version "1.1.2"
-  resolved "https://registry.npmjs.org/@axetroy/struct/-/struct-1.1.2.tgz#32f2dfe32e09406849089ce22da465dcef588502"
-
 "@concordance/react@^1.0.0":
   version "1.0.0"
   resolved "https://registry.npmjs.org/@concordance/react/-/react-1.0.0.tgz#fcf3cad020e5121bfd1c61d05bc3516aac25f734"

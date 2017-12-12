@@ -16,7 +16,6 @@
     "typescript": "^2.6.2"
   },
   "dependencies": {
-    "@axetroy/struct": "^1.1.2",
     "superstruct": "^0.4.9",
     "ws": "^3.3.2"
   }
