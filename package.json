@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "superstruct": "^0.4.9",
-    "ws": "^3.3.2"
+    "ws": "^7.4.6"
   }
 }
