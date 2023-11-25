@@ -16,7 +16,7 @@
     "typescript": "^2.6.2"
   },
   "dependencies": {
-    "superstruct": "^0.4.9",
+    "superstruct": "^0.8.0",
     "ws": "^3.3.2"
   }
 }
